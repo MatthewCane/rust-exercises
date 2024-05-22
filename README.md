@@ -1,2 +1,3 @@
-# rust-exercises
-Exercises for learning Rust
+# Rust Exercises
+
+Exercises from the [Rust book](https://doc.rust-lang.org/book/).
